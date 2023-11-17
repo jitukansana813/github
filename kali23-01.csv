@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+AE:0C:ED:EE:11:D1, 2023-11-16 20:28:36, 2023-11-16 20:35:04,  1,  65, WPA2, CCMP, PSK, -61,     1766,       28,   0.  0.  0.  0,  18, Galaxy F14 5G 9C2E, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

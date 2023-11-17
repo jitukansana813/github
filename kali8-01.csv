@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+1C:82:59:B0:A0:3D, 2023-11-16 11:34:10, 2023-11-16 11:53:55, 11, 180, WPA2, CCMP, PSK, -65,     6102,        0,   0.  0.  0.  0,  22, SifySMAC3_21AT90100461, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

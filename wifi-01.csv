@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+7A:EC:E7:26:5F:D1, 2023-11-15 23:09:26, 2023-11-15 23:23:25,  1,  65, WPA2, CCMP, PSK, -11,     7155,      188,   0.  0.  0.  0,   8, Redmi 8A, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+F4:B1:9C:45:FC:E2, 2023-11-15 23:09:26, 2023-11-15 23:11:45, -25,      161, 7A:EC:E7:26:5F:D1,
+

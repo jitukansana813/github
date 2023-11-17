@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B4:A7:C6:D7:CE:65, 2023-11-16 10:13:33, 2023-11-16 10:14:28, 10,  -1, , ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+56:55:A8:AF:6B:07, 2023-11-16 10:13:33, 2023-11-16 10:14:28, -73,       25, B4:A7:C6:D7:CE:65,
+

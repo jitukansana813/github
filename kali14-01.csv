@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+F2:ED:B8:A5:46:88, 2023-11-16 15:06:21, 2023-11-16 15:07:07, 11, 130, WPA2, CCMP, PSK, -69,       13,        0,   0.  0.  0.  0,   5, Jio_2, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

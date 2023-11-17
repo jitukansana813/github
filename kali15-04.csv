@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+4A:0C:63:29:4F:F4, 2023-11-16 20:41:04, 2023-11-16 20:45:32,  1, 180, WPA2, CCMP, PSK, -64,     1599,     1069,   0.  0.  0.  0,   6, Gurjar, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+F4:B1:9C:45:FC:E2, 2023-11-16 20:41:20, 2023-11-16 20:44:46, -27,      936, 4A:0C:63:29:4F:F4,
+

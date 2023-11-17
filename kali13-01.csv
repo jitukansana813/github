@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+10:10:81:B9:06:06, 2023-11-16 15:04:35, 2023-11-16 15:05:22,  7, 270, WPA2, CCMP TKIP, PSK, -65,      128,        0,   0.  0.  0.  0,  13, Airtel_sudhir, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

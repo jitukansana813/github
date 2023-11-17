@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+FA:36:75:58:65:5F, 2023-11-16 20:47:40, 2023-11-16 20:48:49,  6, 180, WPA2, CCMP, PSK, -57,      189,        1,   0.  0.  0.  0,  14, Prince Gurajar, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

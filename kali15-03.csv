@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+0E:C0:2C:4F:F3:BB, 2023-11-16 15:27:05, 2023-11-16 15:29:12,  1,  65, WPA2, CCMP, PSK, -65,       89,        3,   0.  0.  0.  0,   9, itel A05s, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

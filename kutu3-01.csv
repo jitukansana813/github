@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+F0:ED:B8:84:E8:F6, 2023-11-16 09:28:57, 2023-11-16 09:39:51, 10, 130, WPA2, CCMP, PSK, -64,     1332,     1377,   0.  0.  0.  0,  11, JioFiber-4g, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+34:E9:11:96:FC:9B, 2023-11-16 09:28:57, 2023-11-16 09:39:51, -69,    15958, F0:ED:B8:84:E8:F6,JioFiber-4g
+08:7F:98:32:8D:C7, 2023-11-16 09:28:59, 2023-11-16 09:39:47, -73,      444, F0:ED:B8:84:E8:F6,
+DE:3D:57:55:C8:11, 2023-11-16 09:29:38, 2023-11-16 09:29:38,  -1,        1, F0:ED:B8:84:E8:F6,
+0C:F3:46:E6:4F:9D, 2023-11-16 09:32:49, 2023-11-16 09:33:07, -17,       13, F0:ED:B8:84:E8:F6,JioFiber-4g
+
